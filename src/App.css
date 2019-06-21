@@ -1,0 +1,9 @@
+.appp{
+  display: flex;
+  justify-content: space-around;
+  background: rgb(224, 119, 119);padding: 10px
+}
+.meme{display: flex;
+justify-content: space-between;}
+.meme>*{margin: 0 20px;text-decoration: none;color:white}
+.meme>*:hover{background: rgba(29, 24, 24, 0.767);font-size: 20px;}
